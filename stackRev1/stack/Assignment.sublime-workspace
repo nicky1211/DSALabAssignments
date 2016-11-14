@@ -1,0 +1,1051 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"readFile"
+			],
+			[
+				"_",
+				"_content"
+			],
+			[
+				"sorted",
+				"sortedBootDict"
+			],
+			[
+				"cat",
+				"catList"
+			],
+			[
+				"so",
+				"sortedBootDict"
+			],
+			[
+				"sort",
+				"sortedjqDict"
+			],
+			[
+				"boot",
+				"bootCount"
+			],
+			[
+				"jq",
+				"jqueryDict"
+			],
+			[
+				"cate",
+				"Categories"
+			],
+			[
+				"ca",
+				"Categories"
+			],
+			[
+				"co",
+				"compareJavaLibraries"
+			],
+			[
+				"jp",
+				"jpegCount"
+			],
+			[
+				"noe",
+				"normalize"
+			],
+			[
+				"c",
+				"compare"
+			],
+			[
+				"lsi",
+				"listDomains"
+			],
+			[
+				"ls",
+				"listCount"
+			],
+			[
+				"lis",
+				"listDomains"
+			],
+			[
+				"li",
+				"listofTopLevelDomain"
+			],
+			[
+				"labe",
+				"labels"
+			],
+			[
+				"compa",
+				"compareCookeiCount"
+			],
+			[
+				"p",
+				"pngCount"
+			],
+			[
+				"je",
+				"jpegCount"
+			],
+			[
+				"norm",
+				"normalize"
+			],
+			[
+				"lang",
+				"langDict"
+			],
+			[
+				"kann",
+				"kannadaCount"
+			],
+			[
+				"sumP",
+				"sumPython"
+			],
+			[
+				"sump",
+				"sumPHP"
+			],
+			[
+				"s",
+				"sumJava"
+			],
+			[
+				"asp",
+				"aspCount"
+			],
+			[
+				"sum",
+				"sumPython"
+			],
+			[
+				"su",
+				"sumASP"
+			],
+			[
+				"as",
+				"aspCount"
+			],
+			[
+				"pyth",
+				"pythonCount"
+			],
+			[
+				"J",
+				"javaCount"
+			],
+			[
+				"pyt",
+				"pythonCount"
+			],
+			[
+				"php",
+				"phpCount"
+			],
+			[
+				"java",
+				"javaCount"
+			],
+			[
+				"Ca",
+				"CategoryList"
+			],
+			[
+				"png",
+				"pngCount"
+			],
+			[
+				"C",
+				"CategoryList"
+			],
+			[
+				"pn",
+				"pngCount"
+			],
+			[
+				"gif",
+				"gifCount"
+			],
+			[
+				"N",
+				"NGIF_COUNT"
+			],
+			[
+				"cl",
+				"client"
+			],
+			[
+				"la",
+				"labels"
+			],
+			[
+				"data",
+				"dataKeyLst"
+			],
+			[
+				"pr",
+				"process"
+			],
+			[
+				"fre",
+				"freqQbj"
+			],
+			[
+				"get",
+				"get_weight"
+			],
+			[
+				"f",
+				"frm"
+			],
+			[
+				"a",
+				"adjacency_list"
+			],
+			[
+				"add",
+				"add_neighbour"
+			],
+			[
+				"ver",
+				"vertex_present"
+			],
+			[
+				"ad",
+				"adjacency_list"
+			],
+			[
+				"no",
+				"node"
+			],
+			[
+				"va",
+				"values"
+			],
+			[
+				"ke",
+				"key"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"on",
+				"obtainedList"
+			],
+			[
+				"cou",
+				"countOfPuncData"
+			],
+			[
+				"dict",
+				"dictlist"
+			],
+			[
+				"n",
+				"np"
+			],
+			[
+				"countsap",
+				"countsap"
+			],
+			[
+				"count",
+				"countsap"
+			],
+			[
+				"file",
+				"filesap"
+			],
+			[
+				"Wee",
+				"WEEKDAYS"
+			],
+			[
+				"sa",
+				"saved_column"
+			],
+			[
+				"_ac",
+				"_actualweekDays"
+			],
+			[
+				"_o",
+				"_obtainedweekdays"
+			],
+			[
+				"da",
+				"day"
+			],
+			[
+				"days",
+				"days_lst"
+			],
+			[
+				"list",
+				"_listofDays"
+			],
+			[
+				"l",
+				"_listofDays"
+			],
+			[
+				"in",
+				"inF"
+			],
+			[
+				"wr",
+				"writeDictToCsv"
+			],
+			[
+				"str",
+				"stripTags"
+			],
+			[
+				"word",
+				"wordlist"
+			],
+			[
+				"wo",
+				"wordAq"
+			],
+			[
+				"ch",
+				"charAq"
+			],
+			[
+				"w",
+				"line_words"
+			],
+			[
+				"o",
+				"outFile"
+			],
+			[
+				"line",
+				"line_words"
+			],
+			[
+				"git",
+				"gitPull"
+			],
+			[
+				"con",
+				"convert"
+			],
+			[
+				"_obtainedc",
+				"_obtainedcountries"
+			],
+			[
+				"_obtainedS",
+				"_obtainedSiteElements"
+			],
+			[
+				"_ob",
+				"_obtainedImageFormat"
+			],
+			[
+				"js",
+				"jsonString"
+			],
+			[
+				"r",
+				"rlistofLib"
+			],
+			[
+				"checkC",
+				"checkClientLang"
+			],
+			[
+				"new",
+				"newf_name"
+			],
+			[
+				"find",
+				"findAll"
+			],
+			[
+				"is",
+				"is_matched_html"
+			],
+			[
+				"json",
+				"json_data"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"mer",
+				"merge_sort"
+			],
+			[
+				"deq",
+				"dequeueVal"
+			],
+			[
+				"le",
+				"lengtStack"
+			],
+			[
+				"m",
+				"m"
+			],
+			[
+				"st",
+				"stk1"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"test",
+				"testCase3"
+			],
+			[
+				"gree",
+				"greetingMsg"
+			],
+			[
+				"my",
+				"myName"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "mongoimport -d mdbmsDB -c mdbmsDB.TBBurden --type csv --file TB_burden_countries_2016-11-09.csv --headerline\n\nmysqlimport --ignore-lines=1 --fields-terminated-by=, --verbose --local -u root -p mdbmsDB TB_burden_countries_2016-11-09.csv\n\n\nCREATE TABLE TB_burden_countries_2016-11-09(\n\tid INT NOT NULL AUTO_INCREMENT,\n   country INT NOT NULL AUTO_INCREMENT,\n   iso2 VARCHAR(100) NOT NULL,\n   iso3 VARCHAR(40) NOT NULL,\n   iso_numeric DATE,\n   iso_numeric\n   g_whoregion\n   year\n   e_pop_num\n   e_inc_100k_lo\n   e_inc_100k_hi\n   e_inc_num\n   e_inc_num_lo\n   e_inc_num_hi\n   source_inc\n\t\te_inc_num_f014   \n\t\te_inc_num_f014_lo\n\t\te_inc_num_f014_hi\n\t\te_inc_num_f15plus\n\t\te_inc_num_f15plus_lo\n\t\te_inc_num_f15plus_hi\n\t\te_inc_num_f\n\t\te_inc_num_f_lo\n\t\te_inc_num_f_hi\n\t\te_inc_num_m014\n\t\te_inc_num_m014_lo\n\t\te_inc_num_m014_hi\n\t\te_inc_num_m15plus\n\t\te_inc_num_m15plus_lo\n\t\te_inc_num_m15plus_hi\n\t\te_inc_num_m\n\t\t\te_inc_num_m_lo\n\t\t\te_inc_num_m_hi\n\n   PRIMARY KEY ( id )\n   );\n\ne_inc_num_014\te_inc_num_014_lo\te_inc_num_014_hi\te_inc_num_15plus\te_inc_num_15plus_lo\te_inc_num_15plus_hi\te_tbhiv_prct\te_tbhiv_prct_lo\te_tbhiv_prct_hi\te_inc_tbhiv_100k\te_inc_tbhiv_100k_lo\te_inc_tbhiv_100k_hi\te_inc_tbhiv_num\te_inc_tbhiv_num_lo\te_inc_tbhiv_num_hi\tsource_tbhiv\te_mort_exc_tbhiv_100k\te_mort_exc_tbhiv_100k_lo\te_mort_exc_tbhiv_100k_hi\te_mort_exc_tbhiv_num\te_mort_exc_tbhiv_num_lo\te_mort_exc_tbhiv_num_hi\te_mort_tbhiv_100k\te_mort_tbhiv_100k_lo\te_mort_tbhiv_100k_hi\te_mort_tbhiv_num\te_mort_tbhiv_num_lo\te_mort_tbhiv_num_hi\te_mort_100k\te_mort_100k_lo\te_mort_100k_hi\te_mort_num\te_mort_num_lo\te_mort_num_hi\tsource_mort\tcfr\tcfr_lo\tcfr_hi\tc_newinc_100k\tc_cdr\tc_cdr_lo\tc_cdr_hi\nvarchar(255)",
+			"settings":
+			{
+				"buffer_size": 1652,
+				"line_ending": "Unix",
+				"name": "mongoimport -d mdbmsDB -c mdbmsDB.TBBurden --type"
+			}
+		},
+		{
+			"contents": "create table mdbmsDB.TBBurden( \ncountry varchar(255),\niso2 varchar(255),\niso3 varchar(255),\niso_numeric FLOAT(20,2),\ng_whoregion FLOAT(20,2),\nyear FLOAT(20,2),\ne_pop_num FLOAT(20,2),\ne_inc_100k FLOAT(20,2),\ne_inc_100k_lo FLOAT(20,2),\ne_inc_100k_hi FLOAT(20,2),\ne_inc_num FLOAT(20,2),\ne_inc_num_lo FLOAT(20,2),\ne_inc_num_hi FLOAT(20,2),\nsource_inc varchar(255),\ne_inc_num_f014 FLOAT(20,2),\ne_inc_num_f014_lo FLOAT(20,2),\ne_inc_num_f014_hi FLOAT(20,2),\ne_inc_num_f15plus FLOAT(20,2),\ne_inc_num_f15plus_lo FLOAT(20,2),\ne_inc_num_f15plus_hi FLOAT(20,2),\ne_inc_num_f FLOAT(20,2),\ne_inc_num_f_lo FLOAT(20,2),\ne_inc_num_f_hi FLOAT(20,2),\ne_inc_num_m014 FLOAT(20,2),\ne_inc_num_m014_lo FLOAT(20,2),\ne_inc_num_m014_hi FLOAT(20,2),\ne_inc_num_m15plus FLOAT(20,2),\ne_inc_num_m15plus_lo FLOAT(20,2),\ne_inc_num_m15plus_hi FLOAT(20,2),\ne_inc_num_m FLOAT(20,2),\ne_inc_num_m_lo FLOAT(20,2),\ne_inc_num_m_hi FLOAT(20,2),\ne_inc_num_014 FLOAT(20,2),\ne_inc_num_014_lo FLOAT(20,2),\ne_inc_num_014_hi FLOAT(20,2),\ne_inc_num_15plus FLOAT(20,2),\ne_inc_num_15plus_lo FLOAT(20,2),\ne_inc_num_15plus_hi FLOAT(20,2),\ne_tbhiv_prct FLOAT(20,2),\ne_tbhiv_prct_lo FLOAT(20,2),\ne_tbhiv_prct_hi FLOAT(20,2),\ne_inc_tbhiv_100k FLOAT(20,2),\ne_inc_tbhiv_100k_lo FLOAT(20,2),\ne_inc_tbhiv_100k_hi FLOAT(20,2),\ne_inc_tbhiv_num FLOAT(20,2),\ne_inc_tbhiv_num_lo FLOAT(20,2),\ne_inc_tbhiv_num_hi FLOAT(20,2),\nsource_tbhiv FLOAT(20,2),\ne_mort_exc_tbhiv_100k FLOAT(20,2),\ne_mort_exc_tbhiv_100k_lo FLOAT(20,2),\ne_mort_exc_tbhiv_100k_hi FLOAT(20,2),\ne_mort_exc_tbhiv_num FLOAT(20,2),\ne_mort_exc_tbhiv_num_lo FLOAT(20,2),\ne_mort_exc_tbhiv_num_hi FLOAT(20,2),\ne_mort_tbhiv_100k FLOAT(20,2),\ne_mort_tbhiv_100k_lo FLOAT(20,2),\ne_mort_tbhiv_100k_hi FLOAT(20,2),\ne_mort_tbhiv_num FLOAT(20,2),\ne_mort_tbhiv_num_lo FLOAT(20,2),\ne_mort_tbhiv_num_hi FLOAT(20,2),\ne_mort_100k FLOAT(20,2),\ne_mort_100k_lo FLOAT(20,2),\ne_mort_100k_hi FLOAT(20,2),\ne_mort_num FLOAT(20,2),\ne_mort_num_lo FLOAT(20,2),\ne_mort_num_hi FLOAT(20,2),\nsource_mort varchar(255),\ncfr FLOAT(20,2),\ncfr_lo FLOAT(20,2),\ncfr_hi FLOAT(20,2),\nc_newinc_100k FLOAT(20,2),\nc_cdr FLOAT(20,2),\nc_cdr_lo FLOAT(20,2),\nc_cdr_hi FLOAT(20,2) );\n\nCREATE TABLE mdbmsDB.Product\n(\nID SMALLINT,\nPrice DECIMAL(7,2),\nWeight FLOAT(8,4)\n);",
+			"settings":
+			{
+				"buffer_size": 2216,
+				"line_ending": "Unix",
+				"name": "create table mdbmsDB.TBBurden("
+			}
+		},
+		{
+			"contents": "",
+			"file": "/home/manick/mdbmsAssig/mongo/importData.py",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "tricky_sentences = [\n    \"Most automated sentiment analysis tools are shit.\",\n    \"VADER sentiment analysis is the shit.\",\n    \"Sentiment analysis has never been good.\",\n    \"Sentiment analysis with VADER has never been this good.\",\n    \"Warren Beatty has never been so entertaining.\",\n    \"I won't say that the movie is astounding and I wouldn't claim that \\\n    the movie is too banal either.\",\n    \"I like to hate Michael Bay films, but I couldn't fault this one\",\n    \"It's one thing to watch an Uwe Boll film, but another thing entirely \\\n    to pay for it\",\n    \"The movie was too good\",\n    \"This movie was actually neither that funny, nor super witty.\",\n    \"This movie doesn't care about cleverness, wit or any other kind of \\\n    intelligent humor.\",\n    \"Those who find ugly meanings in beautiful things are corrupt without \\\n    being charming.\",\n    \"There are slow and repetitive parts, BUT it has just enough spice to \\\n    keep it interesting.\",\n    \"The script is not fantastic, but the acting is decent and the cinematography \\\n    is EXCELLENT!\",\n    \"Roger Dodger is one of the most compelling variations on this theme.\",\n    \"Roger Dodger is one of the least compelling variations on this theme.\",\n    \"Roger Dodger is at least compelling as a variation on the theme.\",\n    \"they fall in love with the product\",\n    \"but then it breaks\",\n    \"usually around the time the 90 day warranty expires\",\n    \"the twin towers collapsed today\",\n    \"However, Mr. Carter solemnly argues, his client carried out the kidnapping \\\n    under orders and in the ''least offensive way possible.''\"\n ]",
+			"settings":
+			{
+				"buffer_size": 1604,
+				"line_ending": "Unix",
+				"name": "tricky_sentences = ["
+			}
+		},
+		{
+			"file": "/home/manick/term1Project/analysis/ImageFormatCompare.py",
+			"settings":
+			{
+				"buffer_size": 2400,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/manick/term1Project/setup.py",
+			"settings":
+			{
+				"buffer_size": 3027,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/manick/mdbmsAssig/dataset/createTable.sh",
+			"settings":
+			{
+				"buffer_size": 149,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 173.0,
+		"last_filter": "Snippet: ",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: untitled"
+			],
+			[
+				"snipp",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"Snippet: html",
+				"Snippet: html"
+			]
+		],
+		"width": 342.0
+	},
+	"console":
+	{
+		"height": 90.0,
+		"history":
+		[
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/manick/devopsAssig/assig2-gitData/sentimentalAnalysis/senti.py",
+		"/home/manick/term1Project/analysis/javaLibrariesCompare.py",
+		"/home/manick/term1Project/analysis/domainComparison.py",
+		"/home/manick/term1Project/analysis/ImageFormatCompare.py",
+		"/home/manick/term1Project/analysis/http2spdyCompare.py",
+		"/home/manick/term1Project/analysis/categoryvsCookiesAnalysis.py",
+		"/home/manick/term1Project/analysis/serverSideLangCompare.py",
+		"/home/manick/term1Project/analysis/languageCompare.py",
+		"/home/manick/term1Project/w3tech/readJavaScriptLibraries.py",
+		"/home/manick/term1Project/hartej/htmlparser.py",
+		"/home/manick/term1Project/setup.py",
+		"/home/manick/term1Project/analysis/categoryvsCockiesAnalysis.py",
+		"/home/manick/term1Project/analysis/markupLangAnalysis.py",
+		"/home/manick/anaconda/Day2/svg_index.html",
+		"/home/manick/anaconda/Day2/readDict_index.html",
+		"/home/manick/devopsAssig/README",
+		"/home/manick/term1Project/hartej/final_collectionV2.py",
+		"/home/manick/term1Project/analysis/histogram.py",
+		"/home/manick/term1Project/analysis/animation.py",
+		"/home/manick/anaconda/Day2/index.html",
+		"/home/manick/ApacheExamples/Example1.py",
+		"/home/manick/anaconda/Day2/bar_d3.html",
+		"/home/manick/anaconda/Day2/data.tsv",
+		"/home/manick/devopsAssig/assig2-gitData/brownzip.py",
+		"/home/manick/devopsAssig/assig2-gitData/subPlot.py",
+		"/home/manick/term1Project/analysis/ploty.py",
+		"/home/manick/test.py",
+		"/home/manick/students/MinHeap/Heap/heap.py",
+		"/home/manick/devopsAssig/assig2-gitData/frequency.py",
+		"/home/manick/students/BinaryTree/BST-Test/bst-testcase.py",
+		"/home/manick/students/Graph/graph/graph.py",
+		"/home/manick/Assignments/JavaAssignmentI/ChatApp/MyServer.java",
+		"/home/manick/students/BinaryTree/BST/bst.py",
+		"/home/manick/Assignments/JavaAssignmentI/ChatApp/chatserver.java",
+		"/home/manick/Assignments/JavaAssignmentI/ChatApp/chatclient.java",
+		"/home/manick/graph.py",
+		"/home/manick/Assignments/JavaAssignmentI/ChatApp/MyClient.java",
+		"/home/manick/Assignments/JavaAssignmentI/ChatApp/Client.java",
+		"/home/manick/Assignments/JavaAssignmentI/Array/AddTwoMatrix",
+		"/home/manick/Assignments/JavaAssignmentI/Array/AddTwoMatrix.java",
+		"/home/manick/Assignments/JavaAssignmentI/Array/ArrayMean.java",
+		"/home/manick/Assignments/JavaAssignmentI/ChatApp/Server.java",
+		"/home/manick/Assignments/JavaAssignmentI/ChatApp/send.java",
+		"/home/manick/Assignments/JavaAssignmentI/ChatApp/receive.java",
+		"/home/manick/Assignments/JavaAssignmentI/ChatApp/chatapp.java",
+		"/home/manick/devopsAssig/assig2-gitData/freq",
+		"/home/manick/.config/sublime-text-3/Packages/User/untitled.sublime-snippet",
+		"/home/manick/devopsAssig/assig1/assig1.py",
+		"/home/manick/term1Project/CMS.txt",
+		"/home/manick/term1Project/db_init_rankCategory.py",
+		"/home/manick/term1Project/testGraphics.py",
+		"/home/manick/term1Project/vizdata.py",
+		"/home/manick/term1Project/mongo_panda.py",
+		"/home/manick/term1Project/dboperations.py",
+		"/home/manick/searchGoogle.py",
+		"/home/manick/anaconda/Data Analysis - Day 1/sample1.py",
+		"/home/manick/ApacheExamples/spark-master/examples/src/main/python/streaming/network_wordcount.py",
+		"/home/manick/hartejTermProj/term-project/final_collection.py",
+		"/home/manick/hartejTermProj/term-project/readJavaScriptLibraries.py",
+		"/home/manick/term1Project/readTech.py",
+		"/home/manick/term1Project/db_init.py",
+		"/home/manick/term1Project/dataStore/Website_List_backup.txt",
+		"/home/manick/term1Project/dataStore/urlList.txt",
+		"/home/manick/devopsAssasination/README",
+		"/home/manick/Desktop/websites.csv",
+		"/home/manick/term1Project/mongop_anda.py",
+		"/home/manick/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/manick/newspaper.py",
+		"/home/manick/term1Project/hartej/getDataFromDB.py",
+		"/home/manick/data-visualization/assignments/devops-lab-assignment-2.txt",
+		"/home/manick/devopsAssasination/assig2-gitData/trials/textBlob.py",
+		"/home/manick/devopsAssasination/assig2-gitData/setup.py",
+		"/home/manick/devopsAssasination/assig2-gitData/a.log",
+		"/home/manick/devopsAssasination/assig2-gitData/data/dataViz_log.txt",
+		"/home/manick/devopsAssasination/assig2-gitData/testdir/test.html",
+		"/home/manick/devopsAssasination/assig2-gitData/testdir/wordReg.py",
+		"/home/manick/devopsAssasination/assig2-gitData/stats.py",
+		"/home/manick/devopsAssasination/assig2-gitData/frequency.py",
+		"/home/manick/devopsAssasination/assig2-gitData/WordCountVSCharacterCount.html",
+		"/home/manick/devopsAssasination/assig3-browserHistory/getListOf_Browsers.txt",
+		"/home/manick/devopsAssasination/assig2-gitData/returnDay.py",
+		"/home/manick/devopsAssasination/assig2-gitData/properties.py",
+		"/home/manick/devopsAssasination/assig2-gitData/fileOperation.py",
+		"/home/manick/devopsAssasination/assig2-gitData/Array_queue.py",
+		"/home/manick/devopsAssasination/assig2-gitData/subPlot.py",
+		"/home/manick/devopsAssasination/assig2-gitData/getPunctuations.py",
+		"/home/manick/term1Project/formattedChat.txt",
+		"/home/manick/devopsAssasination/myFirst.php",
+		"/home/manick/devopsAssasination/myFirst.html",
+		"/home/manick/term1Project/hartej/masked.py",
+		"/home/manick/term1Project/_chat.txt",
+		"/home/manick/devopsAssasination/obo.py",
+		"/home/manick/devopsAssasination/freq.py",
+		"/home/manick/term1Project/obo.py",
+		"/home/manick/term1Project/hartej/convertHTLMtoText.py",
+		"/home/manick/devopsAssasination/assig2-gitData/data/temp1.txt",
+		"/home/manick/devopsAssasination/assig2-gitData/data/temp.txt",
+		"/home/manick/term1Project/hartej/structureData.py",
+		"/home/manick/term1Project/visualisinngdata.py",
+		"/home/manick/devopsAssasination/assig2-gitData/setup.sh",
+		"/home/manick/Desktop/w3/Payu.in",
+		"/home/manick/Desktop/w3/Wikihow.com",
+		"/home/manick/Desktop/w3/Weebly.com",
+		"/home/manick/Desktop/w3/Way2sms.com",
+		"/home/manick/Desktop/w3/Voot.com",
+		"/home/manick/Desktop/w3/Salesforce.com",
+		"/home/manick/Desktop/w3/Sarkariresult.com",
+		"/home/manick/Desktop/w3/Scoopwhoop.com",
+		"/home/manick/Desktop/w3/Scribd.com",
+		"/home/manick/Desktop/w3/Shaadi.com",
+		"/home/manick/Desktop/w3/Shine.com",
+		"/home/manick/Desktop/w3/Vcommission.com",
+		"/home/manick/Desktop/w3/Shutterstock.com",
+		"/home/manick/Desktop/w3/Skype.com",
+		"/home/manick/Desktop/w3/Slack.com",
+		"/home/manick/Desktop/w3/Softonic.com",
+		"/home/manick/Desktop/w3/Speedtest.net",
+		"/home/manick/Desktop/w3/Stumbleupon.com",
+		"/home/manick/Desktop/w3/Sulekha.com",
+		"/home/manick/Desktop/w3/Themeforest.net",
+		"/home/manick/Desktop/w3/Tripadvisor.in",
+		"/home/manick/Desktop/w3/Truecaller.com",
+		"/home/manick/Desktop/w3/Tvfplay.com",
+		"/home/manick/Desktop/w3/Uidai.gov.in",
+		"/home/manick/Desktop/w3/Upwork.com",
+		"/home/manick/Desktop/html.html",
+		"/home/manick/Desktop/w3/Xhamster.com",
+		"/home/manick/Desktop/w3/Sbicard.com"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"...",
+			"\"",
+			"DOUBLE[(20,2)]",
+			"float",
+			"float(7,2)",
+			"int",
+			"bo",
+			"()",
+			"str",
+			"Webs",
+			"'",
+			"\\xe2\\",
+			"\\t",
+			"\\n",
+			"Saudi",
+			"133",
+			"A",
+			"yahoo",
+			"youtube",
+			"Final_data",
+			"blue",
+			"blue4",
+			"ID",
+			"_listofDays",
+			"Il",
+			"txt",
+			"PHP",
+			"scale",
+			"v3",
+			"find",
+			"}",
+			"s",
+			"quicksort",
+			"Array_queue",
+			"stk1",
+			"html",
+			"i"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"FLOAT(20,2)",
+			"DOUBLE[(20,2)]",
+			"float",
+			"\"",
+			"",
+			"RankedCategory"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1652,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								110,
+								110
+							]
+						],
+						"settings":
+						{
+							"auto_name": "mongoimport -d mdbmsDB -c mdbmsDB.TBBurden --type",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29,
+								29
+							]
+						],
+						"settings":
+						{
+							"auto_name": "create table mdbmsDB.TBBurden(",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/manick/mdbmsAssig/mongo/importData.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1604,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1604,
+								1604
+							]
+						],
+						"settings":
+						{
+							"auto_name": "tricky_sentences = [",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/manick/term1Project/analysis/ImageFormatCompare.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2400,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								114,
+								114
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/manick/term1Project/setup.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3027,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1074,
+								1074
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/manick/mdbmsAssig/dataset/createTable.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								128,
+								128
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 206.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "Assignment.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
