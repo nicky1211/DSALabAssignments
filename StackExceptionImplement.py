@@ -3,7 +3,7 @@ class Error(Exception):
    pass
 
 class ArrayFullException(Error):
-   """Raised when the input value is too small"""
+   """Raised when elements are tried to be added when the size if full"""
    pass
 
 class ArrayStack:
