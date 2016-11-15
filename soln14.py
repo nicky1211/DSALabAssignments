@@ -83,20 +83,13 @@ class CapGain:
         	elif self._choice == 2:
         		shareSold,priceOfshareSold = sellShare()
             	print ("%s shares are sold for the price %s each"%(shareSold,priceOfshareSold))
-        	# elif self._choice == 3:
-        	# 	calCapGain()
-        	# else:
-        	# 	print "Incorrect INput"
+        	elif self._choice == 3:
+        		calCapGain()
+       
 
 	def menu(self):
-		print("Choose a number to continue:\t\n\
-	1 : Buy a Share\n\
-	2 : Sell the share\n\
-	3 : Total Capital Gain So far\n\
-	4 : Quit")
-
-   		print("\nApplication Complete")
-
+		print("\n1 : Buy a Share\n2 : Sell the share\n3 : Total Capital Gain So far\n4 : Quit")
+   	
    	def buyShare(self):
    		numberOfShares= int(input("Enter the number os Shares:\t"))
    		priceeach= int(input("Enter the price of each:\t"))
