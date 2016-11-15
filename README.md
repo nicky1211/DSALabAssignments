@@ -1,3 +1,7 @@
+# DSALabAssignments
+
+
+
 1. Implement a function with signature transfer(S,T) that transfers all elements from Stack S onto Stack T, so that that elements that starts at the top of S is the first to be inserted into T, and element at the bottom of S ends up at the top of T.
 2. Implement a function that reverses a list of elements by pushing them onto a stack in one order, and write them back to the list in reversed order.
 3. Modify ArrayStack implementation so that the stack’s capacity is limited to maxlen elements. If push is called when the stack is at full capacity, throw a Full exception.
@@ -15,5 +19,3 @@
 15. Design an ADT for a two-color, double-stack ADT that consists of two stacks – one “red” and one “blue” – and has as its operations color-coded versions of the regular stack ADT operations. For example, this ADT should support both a red push operation and a blue push operation. Give an efficient implementation of this ADT using single array whose capacity is set at some value N that is assumed to always be larger than the sizes of the red and blue stacks combined.
 
 
-# DSALabAssignments
-DSALabAssignments
