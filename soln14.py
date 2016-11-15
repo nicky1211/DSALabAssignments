@@ -1,6 +1,6 @@
 class ArrayQueue:
 	""" FIFO queue implementation using a Python list as underlying storage """
-	DEFAULTY_CAPACITY = 2
+	DEFAULTY_CAPACITY = 10
 
 	def __init__ (self):
 		""" create an empty queue """
@@ -62,34 +62,87 @@ class ArrayQueue:
 			walk = (1 + walk) % len(old)
 		self._front = 0
 
-class capGain:
+class CapGain:
 
-	totCapGain = 0
-	shareHeld = ArrayQueue()
+	def __init__(self):
+		self._choice = 0
+		self._totCapGain = 0
+		self._shareHeld = ArrayQueue()
+		self._priceOfShare = ArrayQueue()
+		self._soldCount = []
+		self._soldPrice = []
+		self._buyCount = []
+		self._buyPrice = []
 
 	def menuPrompt(self):
-		filename = input("WELCOMEE!!!!!:\t")
-    	menu()
+		menu()
     	self._choice= int(input("Enter menu choice:\t"))
-    	while self._choice != 5:
+    	while self._choice != 4:
     		if self._choice == 1:
-    			buyShare(numberOfShares,price)
+    			buyShare(numberOfShares,priceeach)
         	elif self._choice == 2:
-           	 #Sell a share
-            	read(filename)
-        	elif self._choice == 3:
-          	  #Calculate total capita gain
-         		append(filename)
-       		 elif self._choice == 4:
-           		 #get total
-           		get_total(filename)
+        		shareSold,priceOfshareSold = sellShare()
+            	print ("%s shares are sold for the price %s each"%(shareSold,priceOfshareSold))
+        	# elif self._choice == 3:
+        	# 	calCapGain()
+        	# else:
+        	# 	print "Incorrect INput"
 
-    def menu(self):
-		#user chooses a number from list
-    	print("Choose a number to continue:\t\n\
-	    1 : Buy a Share\n\
-	    2 : Sell the share\n\
-	    3 : Total Capital Gain So far\n\
-	    4 : Quit")
+	def menu(self):
+		print("Choose a number to continue:\t\n\
+	1 : Buy a Share\n\
+	2 : Sell the share\n\
+	3 : Total Capital Gain So far\n\
+	4 : Quit")
 
-    	print("\nApplication Complete")
+   		print("\nApplication Complete")
+
+   	def buyShare(self):
+   		numberOfShares= int(input("Enter the number os Shares:\t"))
+   		priceeach= int(input("Enter the price of each:\t"))
+   		self._shareHeld.enqueue(numberOfShares)
+   		self._priceOfShare.enqueue(priceeach)
+   		self._buyCount.append(numberOfShares)
+    	self._buyPrice.append(price)
+
+    def sellShare(self):
+    	shareSold = self._shareHeld.dequeue()
+    	priceOfshareSold = self._priceOfShare.dequeue()
+    	self._soldCount.append(shareSold)
+    	self._soldPrice.append(priceOfshareSold)
+    	return shareSold,priceOfshareSold
+
+    def calCapGain(self):
+    	totalBuyPrice = 0
+    	totalBuyQuantity = 0
+    	totalSellPrice = 0
+    	totalSellQuantity = 0
+    	spentWhileBuy = 0
+    	amountafterSell = 0
+    	captial = 0
+
+    	for i,j in zip(self._buyCount,self._buyPrice)
+    		totalBuyQuantity = totalBuyQuantity + i
+    		totalBuyPrice = totalBuyPrice + j
+
+    	spentWhileBuy = totalBuyQuantity * totalBuyPrice
+
+    	for c,p in zip(self._soldCount,self._soldPrice)
+    		totalSellQuantity = totalSellQuantity + c
+    		totalSellPrice = totalSellPrice + p
+
+    	amountafterSell = totalSellQuantity * totalSellPrice
+    	capital = amountafterSell  - spentWhileBuy
+    	if captial < 0:
+    		print "You had a loss. The lost amount is %s"%abs(captial)
+    	else:
+    		print "You are under gain. The profit amount is %s"%captial
+
+
+if __name__ == '__main__':
+	transact = CapGain()
+
+	transact.menuPrompt()
+
+
+   
