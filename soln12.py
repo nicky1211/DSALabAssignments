@@ -1,4 +1,4 @@
-#Circularly array realization of queue
+#Circularly array realization of queue.
 class ArrayQueue(object):
     DEFAULT_CAPACITY = 10
     
